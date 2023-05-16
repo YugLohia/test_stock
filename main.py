@@ -26,6 +26,8 @@ st.text(" ")
 st.text(" ")
 st.text(" ")
 
+
+
 @st.cache_resource
 def plot():
     st.subheader("Relationship between Stock Index Price and Economic Growth Rate")
